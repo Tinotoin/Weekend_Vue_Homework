@@ -1,4 +1,4 @@
-# chucklenorris
+# amiibo viewer
 
 ## Project setup
 ```
